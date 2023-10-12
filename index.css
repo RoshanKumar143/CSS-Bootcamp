@@ -158,18 +158,15 @@ a{
 .anchor{
     color: black;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> b8cde06d7dd6ceed18afae142cbbe0e6964fd4e1
+
 #input-2{
     border:none;
+	font-size: 14px;
+    font-weight: 600;
 }
 #eye{
     float:right;
     cursor:pointer;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> b8cde06d7dd6ceed18afae142cbbe0e6964fd4e1
+
