@@ -1,0 +1,160 @@
+.box1{
+    width: 450px;
+    background-color: #1BD247 ;
+    margin: 50px auto;
+    padding: 100px 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.btn-1{
+    border: none;
+    width: 40%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+    border-radius: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: ;
+}
+
+
+
+.profile{
+    width: 450px;
+    border: 1px solid grey;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.text{
+    padding: 0px 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;    
+    font-size: x-large;
+
+}
+#para{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(61, 53, 53);
+    margin-top: -16px;
+}
+.profile-img-div{
+    letter-spacing: 50px;
+    /* padding:15px 50px; */
+    padding: 17px 20% 30px;
+}
+.profile-img{
+    border-radius: 50%;
+}
+.final{
+    border-top: 1px solid grey;
+    width: 100%;
+    color: rgb(68, 66, 191);
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+}
+
+
+
+.card{
+    width: 400px;
+    border: 1px solid grey;
+    margin: 30px auto;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card-img{
+    width: 100%;
+    height: 170px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.card-text{
+    padding: 10px 20px;
+}
+.card-text-main-para{
+    font-size: 13px;
+    font-weight: 500; 
+    padding-left: 10px;  
+}
+.card-text-main-header{
+    font-size: 21px;
+    font-weight: 500;
+}
+.card-text-sub-para{
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px; 
+}
+.btn-2{
+    border: none;
+    width: 40%;
+    margin: 10px;
+    padding: 8px 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    color: rgb(68, 66, 191);
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+
+
+
+.login{
+    width: 400px;
+    margin: 200px auto;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login-main-heading{
+    letter-spacing: 1px;
+    text-align: center;
+    font-family:cursive;
+    font-size: 45px;
+    font-weight:bolder;
+    font-style: italic;
+    
+}
+.login-sub-heading{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+}
+.input{
+    width: 80%;
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 5px 35px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+.button-div{
+    text-align: center;
+    margin-top: 10px;
+}
+.btn-3{
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 30px;;
+    padding: 10px 20%;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.signup-content, .footer{
+    text-align: center;
+    margin-top: 30px;
+    color: grey;
+}
+a{
+    color: grey;
+}
+.anchor{
+    color: black;
+}
